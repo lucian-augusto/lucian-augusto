@@ -1,4 +1,10 @@
-### Hi there 👋
+## Hello there! I'm Lucian!
+
+<div align="center">
+  <a href="https://github.com/lucian-augusto" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucian-augusto&count_private=true&include_all_commits=true&theme=aura&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucian-augusto&count_private=true&include_all_commits=true&theme=aura&langs_count=10&layout=compact" />
+</div>
 
 <!--
 **lucian-augusto/lucian-augusto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
